@@ -16,3 +16,4 @@ Actualmente aprendiendo Flask y desarrollo backend
 ## Proyectos Destacados
 
 - Elite Cut BarberShop
+- Client Manager
