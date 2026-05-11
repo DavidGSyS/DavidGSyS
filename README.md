@@ -25,14 +25,10 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DavidGSyS&show_icons=true&theme=tokyonight" 
-    height="170"
-  />
-  
+    
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=DavidGSyS&theme=tokyonight" 
-    height="170"
+    height="180em"
   />
 </p>
 
