@@ -37,7 +37,7 @@
 ## 🛠️ Lenguajes y Herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,sqlite,django,go,kotlin,vue,linux,git,arduino" />
 </p>
 
 <hr>
