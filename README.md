@@ -50,6 +50,9 @@ Sistema web moderno para gestión y presentación de barbería.
 ### 📋 Client Manager
 Aplicación para administración y control de clientes.
 
+### 🎮 BASTA Challenge Android
+Aplicación Android moderna inspirada en el clásico juego BASTA, desarrollada con Kotlin y Material Design.
+
 <hr>
 
 <p align="center">
